@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+jupyter_core
+scikit-learn
+xgboost
+catboost
+flask
+streamlit
+dill
+gunicorn
+tensorflow
