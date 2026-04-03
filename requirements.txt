@@ -11,3 +11,4 @@ streamlit
 dill
 gunicorn
 tensorflow
+category_encoders
