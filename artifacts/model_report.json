@@ -1,0 +1,13 @@
+{
+    "best_params": {
+        "colsample_bytree": 1.0,
+        "learning_rate": 0.1,
+        "max_depth": 9,
+        "min_child_weight": 1,
+        "n_estimators": 500,
+        "subsample": 0.8
+    },
+    "r2_score": 0.9853686516787924,
+    "mae": 4389.455331190221,
+    "rmse": 10382.04989116657
+}
